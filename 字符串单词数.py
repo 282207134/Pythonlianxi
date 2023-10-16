@@ -8,6 +8,6 @@ class Solution:
 if __name__ == '__main__':
     s=Solution()
     n="Hello, my name is john"
-    print('字符长度：',len(n))
-    print('输入：',n)
-    print('输出：',s.count(n))
+    print('字符长度:',len(n))
+    print('输入:',n)
+    print('输出:',s.count(n))
