@@ -4,4 +4,3 @@ for i in range(a):
         print("*"*(a-i))
     else:
         print(" "*(i-1),"*"*(a-i))
-
